@@ -1,4 +1,8 @@
-# Keep the repository's primary language aligned with the upstream project.
-*.ts linguist-language=Python
-*.js linguist-language=Python
+# Keep the repository language aligned with the upstream project.
+*.html linguist-language=Python
 *.css linguist-language=Python
+*.js linguist-language=Python
+*.jsx linguist-language=Python
+*.ts linguist-language=Python
+*.tsx linguist-language=Python
+*.mjs linguist-language=Python
